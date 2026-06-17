@@ -15,7 +15,7 @@ Astri is a multitool written in python, it contains tools with different applica
  <img src="https://github.com/astros3x/Astri/assets/87500882/d3495feb-6b61-4515-81d5-89d999cb7e35"></img>
 </div>
 
-## 🗒️ Features
+## 🗒️ Features 
 * Tools
   * Windows activator
   * Nitro generator
